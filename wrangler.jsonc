@@ -26,5 +26,11 @@
       "binding": "KV",
       "id": "fc5ef75b39d5453682d08620ab515136"
     }
+  ],
+  "routes": [
+    {
+      "pattern": "to.rheinklang.events",
+      "custom_domain": true
+    }
   ]
 }
